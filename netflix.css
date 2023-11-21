@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+}
+body{
+    background-color:#232323 ;
+}
+#navbar{
+    height: 6rem;
+    display: flex;
+    align-items: center;
+}
+
+#logo{
+    height: 8rem;
+    width: 12rem;
+    position: relative;
+    margin-right: 45rem;
+    margin-left: 8rem;
+    background-image: url(https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png);
+    background-size: cover;
+}
+
+#language{
+    height: 2rem;
+    width: 8rem;
+    margin-right: 30px;
+    border-radius: 5px;
+    border: 2px solid black;
+    
+}
+
+#login{
+    height: 2rem;
+    width: 4.5rem;
+    background-color: red;
+    color: azure;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    font-weight: 700;
+
+}
+select{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    color: azure;
+    font-size: 0.8rem;
+    font-weight:700;
+}
+
+#background{
+    height: 43rem;
+    width: 100%;
+    background-image: url(bg_img.jpg);
+    background-size: cover;
+}
+
+#hero-text{
+    height: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 3px 3px black;
+
+}
+
+h2{
+    font-weight:900;
+    font-size: 3rem;
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
+h3{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: white;
+    text-shadow: 3px 3px black;
+
+}
+h4{
+    margin-top:1rem;
+    font-size: 1.2rem;
+    font-weight: 100;
+    color: white;
+    text-shadow: 3px 3px black;
+}
+#emailid{
+    margin-top: 1.5rem;
+    height: 2.9rem;
+    width: 25rem;
+    background-color: rgb(22, 21, 21);
+    color: white;
+    font-size: 1.2rem;
+    border: 0.1px solid white;
+    border-radius: 3px;
+    
+}
+button{
+    height: 2.9rem;
+    width: 10rem;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: 900;
+}
+
+#page2{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    background-color: black;
+    height: 43rem;
+    width: 100%;
+
+}
+#textinfo{
+    height:30rem;
+    width: 50rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#tvvid{
+    height:30rem;
+    width: 50rem;
+    background-image: url(tv.png);
+    margin: 2rem;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#page3{
+    margin-top: 1rem;
+    background-color: black;
+    height: 43rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#page4{
+    margin-top: 1rem;
+    background-color: black;
+    height: 43rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
+#page5{
+    margin-top: 1rem;
+    background-color: black;
+    height: 57rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#page6{
+    margin-top: 1rem;
+    background-color: black;
+    height: 80rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:flex-start ;
+
+}
+
+.boxes{
+    height: 4rem;
+    width: 65rem;
+    background-color: #2d2d2d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+
+
+}
+.faq{
+    color: white;
+    font-size: large;
+    padding: 20px;
+}
+
+#plus{
+    padding: 20px;
+}
+#quesbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+h6{
+    color: aliceblue;
+    font-weight:900;
+    font-size: 3rem;
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
+.hover:hover{
+    border: 2px solid white;
+}
+.boxes:hover{
+    border: 2px solid white;
+}
