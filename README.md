@@ -8,11 +8,10 @@ This project is a static clone of the Netflix website created using HTML and CSS
 
 ## Demo
 
-You can view the project live at [Netflix Clone](<insert-hosting-url-here>)
+You can view the project live at [Netflix Clone](<https://divyansh-bhilware.github.io/Netflix-clone/>)
 
 ## Key Pointers
 
-- Responsive design for various screen sizes.
 - Utilizes Font Awesome for icons.
 - Sections include:
   - Hero section with a call-to-action.
@@ -29,8 +28,8 @@ You can view the project live at [Netflix Clone](<insert-hosting-url-here>)
 - Font Awesome (for icons)
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2023-11-22 at 11 19 10 PM" src="https://github.com/divyansh-bhilware/Netflix-clone/assets/151143403/a8e2dd16-701f-4803-abf9-fac4b81f2f59">
 
-[Include screenshots or GIFs of your project if applicable]
 
 ## Usage
 
