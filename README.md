@@ -42,5 +42,5 @@ You can view the project live at [Netflix Clone](<https://divyansh-bhilware.gith
 Clone the repository and open the `index.html` file in a web browser to view the project locally.
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/divyansh-bhilware/netflix-clone.git
 cd netflix-clone
